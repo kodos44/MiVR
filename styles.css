@@ -1,0 +1,122 @@
+footer {
+    background-color: rgb(43, 42, 42);
+    font-size: 15px;
+    color: white;
+    
+}
+
+.footer {
+    margin-top: 30px;
+}
+
+
+body {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+nav {
+    display: flex;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav {
+    margin: 10px 30px;
+    font-size: 25px;
+    background-color: black;
+    border: black;
+    padding: 10px;
+}
+
+.btn:hover {
+    background: white; 
+    color: black;
+}
+
+
+
+header {
+    display: flex;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+#vr {
+    margin: 20px 0px;
+}
+
+#mainaside {
+    display: flex;
+    flex-direction: row;
+    background-image: url('/img/background.jpg');
+    background-size: cover;
+}
+
+.card {
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    
+}
+
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+aside {
+    
+    align-self: flex-start;
+    padding-left: 775px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.vrtexto {
+    font-size: 24px;
+    margin: 25px;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+#vrimagen {
+    align-self: center;
+}
+
+.form {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#mainasidecontacto {
+    display: flex;
+}
+
+#mainasidevr {
+    font-family: 'Inter', sans-serif;
+}
+
+.redesSociales {
+    margin-left: auto;
+    font-size: 33px;
+    margin-right: 75px;
+}
+
+.fa-facebook {
+    color: rgb(109, 109, 221);
+    padding: 5px;
+}
+
+.fa-twitter {
+    color: rgb(6, 218, 247);
+    padding: 5px;
+}
+
+.fa-instagram {
+    color: rgb(221, 72, 27);
+    padding: 5px;
+}
